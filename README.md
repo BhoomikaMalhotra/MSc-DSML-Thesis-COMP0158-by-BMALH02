@@ -1,5 +1,5 @@
 # MSc-DSML-Thesis-COMP0158-by-BMALH02
-The following repository contains supplementary code for the thesis submitted as part requirement for the MSc Data Science and Machine Learning at University College London by Candidate ID BMALH02
+The following repository contains supplementary code for the thesis submitted as part requirement for the MSc Data Science and Machine Learning at University College London by Candidate ID BMALH02.
 
 Please note that the dataset used in this study has not been included in this repository. This is because the dataset contains sensitive information about children and
 is not available for public distribution.
